@@ -67,6 +67,7 @@ This documentation focuses on creating a Mobile Device Management (MDM) policy f
 
 ### Need to Control Mobile Devices
 Mobile devices, including smartphones, tablets, and laptops, are essential tools for productivity but pose significant security risks. These devices often contain sensitive company information, making it crucial to implement security measures and ensure compliance.
+<img src="https://i.imgur.com/lz3Rr29.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 ### Risks of BYOD (Bring Your Own Device)
 BYOD allows employees to use personal devices for work, introducing several risks:
