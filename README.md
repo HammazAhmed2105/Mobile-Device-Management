@@ -71,6 +71,7 @@ Mobile devices, including smartphones, tablets, and laptops, are essential tools
 
 ### Risks of BYOD (Bring Your Own Device)
 BYOD allows employees to use personal devices for work, introducing several risks:
+<img src="https://i.imgur.com/kwa2R2U.jpeg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 - **Data Leakage**: Lack of security controls increases the risk of data leaks.
 - **Device Loss or Theft**: Misplaced devices containing company data create security vulnerabilities.
